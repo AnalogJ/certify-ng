@@ -62,26 +62,27 @@ function isEmpty(value) {
 Dynamically Enable/Disable Validation::
 
 
-* CreditCard
-  Required
-  Checklist/Array Required
-  MinLength
-  MaxLength
-  Regex
-  Array/ChecklistMinChecked
-  ArrayChecklistMaxChecked
- Phone Number
- Remote
- Date
- Digits
- Email
- EqualTo
- FileExtensions
- Integer
- Max
- Min
- Numeric
- Url/UrlStrict
- Year
- AlphaNum
+*
+*   CreditCard
+    Required
+    Checklist/Array Required
+    MinLength
+    MaxLength
+    Regex
+    Array/ChecklistMinChecked
+    ArrayChecklistMaxChecked
+    Phone Number
+    Remote
+    Date
+    Digits
+    Email
+    EqualTo
+    FileExtensions
+    Integer
+    Max
+    Min
+    Numeric
+    Url/UrlStrict
+    Year
+    AlphaNum
 * */
